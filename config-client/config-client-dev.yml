@@ -1,0 +1,11 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info, health, loggers, refresh, env, configprops, beans
+logging:
+  level:
+    org.springframework.cloud: debug
+
+author:
+  name: Gianmarco Barca
