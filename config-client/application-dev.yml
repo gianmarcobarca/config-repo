@@ -13,7 +13,7 @@ management:
 
 logging:
   level:
-    root: debug
+    root: info
 
 author:
   name: Gianmarco Barca
