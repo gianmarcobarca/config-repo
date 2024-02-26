@@ -13,7 +13,7 @@ management:
 
 logging:
   level:
-    org.springframework.cloud: info
+    root: debug
 
 author:
   name: Gianmarco Barca
