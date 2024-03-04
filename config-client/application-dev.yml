@@ -15,5 +15,8 @@ logging:
   level:
     root: debug
 
+server:
+  port: 0
+
 author:
   name: Gianmarco Barca
