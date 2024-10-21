@@ -16,7 +16,7 @@ logging:
     root: debug
 
 server:
-  port: 0
+  port: 8080
 
 author:
   name: Gianmarco Barca
